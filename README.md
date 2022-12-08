@@ -1,2 +1,2 @@
-# PreEntrega1-Guillen
-Primera PreEntrega de Proyecto CoderHouse de JavaScript
+# PreEntrega2-Guillen
+Segunda PreEntrega de Proyecto CoderHouse de JavaScript
